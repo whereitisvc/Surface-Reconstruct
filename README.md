@@ -5,6 +5,6 @@ Implemented surface reconstruction based on Lambertian Reflection theroy.
 
 ## Demo
 Demo 1: *bunny*
-<img src="demo1.PNG" />
+<img src="demo1.png" />
 Demo 2: *AVATAR*
-<img src="demo2.PNG" />
+<img src="demo2.png" />
